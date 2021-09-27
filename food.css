@@ -18,16 +18,16 @@ body {
     position: relative;
 }
 
-.logo a {
+.menu {
+    float: right;
+}
+
+.logo {
     font-size: 50px;
     font-weight: 800;
     float: left;
     font-family: 'Quicksand', sans-serif;
     color: black;
-}
-
-.menu {
-    float: right;
 }
 
 nav {
